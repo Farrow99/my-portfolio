@@ -1,4 +1,5 @@
-#My DevOps portfolio
+#My DevOps porfolio
 
-I am samuel, an aspiring DevOps engineer
+i am a DevOps student
 
+see about-me.md 
