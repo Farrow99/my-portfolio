@@ -1,6 +1,6 @@
 #My DevOps porfolio
 
 i am a DevOps student
-
-## Projects :Fufu
  
+##Projects : DevOps Lab1 
+>>>>>>> feature/projects
